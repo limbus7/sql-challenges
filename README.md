@@ -17,7 +17,8 @@
 # DATA MODELLING
   Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
   
-<img width="1044" alt="ERD" src="https://github.com/limbus7/sql_challenges/assets/105176210/0609be09-a629-4bc2-8707-af9bd785deae">
+<img width="1044" alt="ERD" src="https://github.com/limbus7/sql-challenges/assets/105176210/6c7c38f4-d0a7-400b-8ac1-e089fd0a7c69">
+
 
 
 # DATA ENGINEERING

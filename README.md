@@ -30,6 +30,8 @@
 
 # DATA ANALYSIS
 
-<img width="1070" alt="Screenshot 2024-03-06 at 8 29 07 AM" src="https://github.com/limbus7/sql_challenges/assets/105176210/8dc2f3af-c6c7-4f93-8428-919a24c19fcd">
-<img width="1078" alt="Screenshot 2024-03-06 at 8 29 58 AM" src="https://github.com/limbus7/sql_challenges/assets/105176210/03679937-e7d7-42eb-8b07-fcd9d33522b2">
-<img width="1035" alt="Screenshot 2024-03-06 at 8 30 31 AM" src="https://github.com/limbus7/sql_challenges/assets/105176210/8d91fe3b-92ba-4388-8ab9-36abd60841f2">
+<img width="1327" alt="DATA ANALYSIS 1" src="https://github.com/limbus7/sql-challenges/assets/105176210/15fd717d-ec40-46cb-91e4-a6c2f7c3e9af">
+<img width="1322" alt="DATA ANALYSIS 2" src="https://github.com/limbus7/sql-challenges/assets/105176210/38fadbaa-e7b6-437a-8461-a818ebc70508">
+<img width="1318" alt="DATA ANALYSIS 3" src="https://github.com/limbus7/sql-challenges/assets/105176210/d66b5f8b-91ba-455f-b6cc-5de3cf4349d2">
+
+

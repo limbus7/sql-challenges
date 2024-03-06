@@ -25,8 +25,8 @@
 
   Create a table schema for each of the six CSV files
   
-<img width="1092" alt="Screenshot 2024-03-06 at 8 25 14 AM" src="https://github.com/limbus7/sql_challenges/assets/105176210/930cdd36-fe93-49fa-b348-627c5cfcf0b2">
-<img width="1071" alt="Screenshot 2024-03-06 at 8 25 58 AM" src="https://github.com/limbus7/sql_challenges/assets/105176210/26fec4bc-ef5b-4c8b-9002-5700afcd5748">
+<img width="1331" alt="TABLECHEMA1" src="https://github.com/limbus7/sql-challenges/assets/105176210/7a448351-1610-4dbe-b47c-9a05cccb4b42">
+<img width="1265" alt="TABLESCHEMA2" src="https://github.com/limbus7/sql-challenges/assets/105176210/8696425c-8d95-48e3-a7f3-d6d21cf1af2a">
 
 # DATA ANALYSIS
 
